@@ -1,0 +1,13 @@
+name = "SAKU Society"
+author = "SemperDeadly"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8acbfc35cecdbd434fa932cc7731aa79ac652e9c5521842f7e52e66517d3b631"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.3"

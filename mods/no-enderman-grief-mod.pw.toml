@@ -1,0 +1,13 @@
+name = "Jodek's No Enderman Grief"
+filename = "no-enderman-grief-v3.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0637f78e1f13f47d83b292a6635c9ac9f07cd623"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9118702
+project-id = 1425814

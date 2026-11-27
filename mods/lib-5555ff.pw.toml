@@ -1,0 +1,13 @@
+name = "Lib 5555ff"
+filename = "lib-5555ff-v1.3.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29db120d965e1c8a4fb6d3d112668c78b0fcf016"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9362635
+project-id = 1495273

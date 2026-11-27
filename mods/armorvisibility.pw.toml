@@ -1,0 +1,13 @@
+name = "ArmorVisibility"
+filename = "armorvisibility-0.40.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49b03fd927859bf7e16af6eff9b2397d8b3fc212"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9614978
+project-id = 1716236

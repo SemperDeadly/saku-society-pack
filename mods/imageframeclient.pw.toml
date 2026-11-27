@@ -1,0 +1,13 @@
+name = "ImageFrame Client"
+filename = "ImageFrameClient-26.3-fabric-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af5b2032c9862439be35de8f026aa3d8494570b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8925976
+project-id = 1383748

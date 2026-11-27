@@ -1,0 +1,13 @@
+name = "Phantoms Disabled"
+filename = "bat-membrane-v3.2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43f666211f410c063b5b215420e8f7486eba0f87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9003944
+project-id = 1426379

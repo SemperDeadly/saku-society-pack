@@ -1,8 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".packwizignore.txt"
-hash = "4947e6398e8dd8fd96fc6cf02c0c54d94afecf7f1d632b7ea17d83213edf0cde"
+file = "mods/3dskinlayers.pw.toml"
+hash = "bb194ec7f1affde2fb2d6d052683e96babe72b693e4c3263dfd8245d3941b701"
+metafile = true
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
@@ -56,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9c14d9c7d72296974efdb0912163a4e13969fa68b4354ea03a70cce83e13b23d"
+hash = "d8561ff9c3bd2eeb7bb8121241f126c33725734719dcb4973bedeb97750260f8"
 metafile = true
 
 [[files]]
@@ -137,11 +138,6 @@ metafile = true
 [[files]]
 file = "mods/prism-fabric.pw.toml"
 hash = "fef59594752733919cc090845237906d1c18a7e061b3891371d1ce05325e88df"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "855ea3eca9bc9e12d6f978f199efbdca41a552f98845aff847960977982f2be2"
 metafile = true
 
 [[files]]
